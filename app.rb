@@ -4,6 +4,7 @@ require "slim"
 require "sass"
 require "compass"
 require "autoprefixer-rails"
+require 'coffee-script'
 require "json"
 require './environments'
 require './models'

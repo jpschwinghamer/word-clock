@@ -10,6 +10,7 @@ gem "slim"
 gem "sass"
 gem "compass"
 gem "autoprefixer-rails"
+gem "coffee-script"
 gem "json"
 
 group :development do
